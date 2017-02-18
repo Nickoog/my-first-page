@@ -1,6 +1,7 @@
-html {
-    background-color: #FEFEFE;
+body {
+    background-color: black;
     color:#1C371C; 
+    font-family: monospace, serif;
 }
 
 header {
@@ -26,7 +27,6 @@ h2 {
 }
 
 p {
-    font-family: monospace;
     font-size: 14px;
     text-align: justify;
     margin:5px;
@@ -40,6 +40,7 @@ li{
     margin-right:5px;
     border:solid black 0.5px;
     background-color: #7EAC7E;
+    
 }
 
 li:hover {
@@ -66,6 +67,25 @@ div {
 
 #bottom {
     clear: both;
+    text-align: center;
+}
+
+table {
+    margin:5px;
+    text-align: center;
+    font-size: 16px;
+}
+
+th {
+    border-right: solid 1px;
+    border-bottom:solid 1px;
+    font-size:18px;
+    font-weight: bold;
+}
+
+td {
+    border-right: solid 1px;
+    border-bottom:solid 1px;
 }
 
 footer {
@@ -82,8 +102,12 @@ img {
     
 }
 
-div .ami{
+.ami{
     display:inline-block;
+    margin:5px 40px 5px 40px;
 }
 
-
+ .button{
+    border:solid black 0.5px;
+    background-color: #7EAC7E;
+ }
