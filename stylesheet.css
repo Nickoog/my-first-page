@@ -1,0 +1,89 @@
+html {
+    background-color: #FEFEFE;
+    color:#1C371C; 
+}
+
+header {
+    margin:5px;
+    background-color: #CCDCCC;
+    background-image: url(http://img15.deviantart.net/fe77/i/2016/172/8/6/link___legend_of_zelda_breath_of_the_wild___vector_by_firedragonmatty-da0kbxu.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: right;
+    border-radius: 10px;
+}
+
+h1 {
+    margin:0px 0px 0px 20px;
+    font-family: 'Great Vibes',cursive, serif;
+    font-size: 75px;
+}
+
+h2 {
+    margin:0px 0px 0px 20px;
+    font-family: 'Great Vibes',cursive, serif;
+    font-size: 30px;
+}
+
+p {
+    font-family: monospace;
+    font-size: 14px;
+    text-align: justify;
+    margin:5px;
+}
+
+li{
+    display: inline;
+    border-radius: 5px;
+    padding:5px;
+    margin-left:5px;
+    margin-right:5px;
+    border:solid black 0.5px;
+    background-color: #7EAC7E;
+}
+
+li:hover {
+    background-color: #799179;
+}
+
+div {
+    background-color: #CCDCCC;
+    border-radius:10px;
+    margin:5px;
+}
+
+#right {
+    float: right;
+    width: 33%;
+    height: auto;
+}
+
+#left {
+    float: left;
+    width: 65%;
+    height: auto;
+}
+
+#bottom {
+    clear: both;
+}
+
+footer {
+    clear: both;
+    background-color: red;
+    border-radius: 10px;
+    margin:5px;
+}
+
+img {
+    width: 50px;
+    height:50px;
+    border-radius:100px;
+    
+}
+
+div .ami{
+    display:inline-block;
+}
+
+
