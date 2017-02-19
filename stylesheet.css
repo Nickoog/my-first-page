@@ -1,13 +1,13 @@
 body {
-    background-color: ;
-    color:#1C371C; 
+    background-color: #EFEBE9;
+    color: #3E2723; 
     font-family: Vollkorn, monospace, serif;
     font-size: 16px;
 }
 
 header {
     margin:5px;
-    background-color: #CCDCCC;
+    background-color: #D7CCC8;
     background-image: url(http://img15.deviantart.net/fe77/i/2016/172/8/6/link___legend_of_zelda_breath_of_the_wild___vector_by_firedragonmatty-da0kbxu.png);
     background-size: 200px;
     background-repeat: no-repeat;
@@ -44,7 +44,7 @@ li{
 }
 
 div {
-    background-color: #CCDCCC;
+    background-color: #D7CCC8;
     border-radius:10px;
     margin:5px;
 }
@@ -77,20 +77,20 @@ table {
 }
 
 th {
-    border-right: solid 1px;
-    border-bottom:solid 1px;
+    border-right: solid #6D4C41 1px;
+    border-bottom:solid #6D4C41 1px;
     font-size:18px;
     font-weight: bold;
 }
 
 td {
-    border-right: solid 1px;
-    border-bottom:solid 1px;
+    border-right: solid #6D4C41 1px;
+    border-bottom: solid #6D4C41 1px;
 }
 
 footer {
     clear: both;
-    background-color: #CCDCCC;
+    background-color: #D7CCC8;
     width: auto;
     height:auto;
     border-radius: 10px;
@@ -116,12 +116,12 @@ img {
 }
 
 .button{
-    border:solid black 0.5px;
-    background-color: #7EAC7E;
+    border:solid #6D4C41 0.5px;
+    background-color: #BCAAA4;
  }
  
 .button:hover {
-    background-color: #799179
+    background-color: #A1887F
  }
 
 .person {
