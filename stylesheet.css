@@ -7,18 +7,22 @@ body {
 
 header {
     margin:5px;
+    width: auto;
+    height: 175px;
     background-color: #D7CCC8;
-    background-image: url(http://img15.deviantart.net/fe77/i/2016/172/8/6/link___legend_of_zelda_breath_of_the_wild___vector_by_firedragonmatty-da0kbxu.png);
-    background-size: 200px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zelda_Logo.svg/2000px-Zelda_Logo.svg.png);
+    background-size: 350px;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: 85%;
     border-radius: 10px;
 }
 
 h1 {
-    margin:0px 0px 0px 20px;
+    margin: 0px 0px 40px 20px;
+    padding-top: 10px;
     font-family: 'Great Vibes',cursive, serif;
     font-size: 75px;
+    text-shadow: 3px 3px 5px #6D4C41;
 }
 
 h2 {
@@ -107,7 +111,7 @@ img {
 
  a {
      text-decoration: none;
-     color:#1C371C;
+     color: #3E2723;
  }
 
 .ami{
@@ -118,6 +122,7 @@ img {
 .button{
     border:solid #6D4C41 0.5px;
     background-color: #BCAAA4;
+    box-shadow: 2px 2px 2px #6D4C41;
  }
  
 .button:hover {
